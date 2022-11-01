@@ -1,0 +1,19 @@
+Create reach project
+$ mkdir  morra
+$ cd morra
+$code .
+
+Opening VisualStudioCode
+
+Create files in morra:
+index.rsh
+index.js
+index.css
+Create folder - views and files in:
+render.js
+AppViews.js
+DeployerViews.js
+AttacherViews.js
+PlayerViews.js
+Start program with ./reach react
+
